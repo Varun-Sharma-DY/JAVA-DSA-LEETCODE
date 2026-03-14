@@ -43,6 +43,6 @@ public class missingNUM {
 
         int missing = am.findMissing();
 
-        System.out.println("Missing number is: " + missing);
+        System.out.println("Missing number is:  " + missing);
     }
 }

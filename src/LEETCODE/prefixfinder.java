@@ -42,7 +42,7 @@ public class prefixfinder {
 
         String result = obj.longestCommonPrefix(words);
 
-        System.out.println("Longest Common Prefix: " + result);
+        System.out.println("Longest Common Prefix:  " + result);
 
         sc.close();
     }
