@@ -59,7 +59,7 @@ public class zigzagConversion {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter the string:  ");
+        System.out.print("Enter the string: ");
         String s = sc.nextLine();
 
         System.out.print("Enter number of rows: ");
