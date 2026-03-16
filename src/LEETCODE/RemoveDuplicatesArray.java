@@ -40,7 +40,7 @@ public class RemoveDuplicatesArray {
 
         RemoveDup rd = new RemoveDup();
 
-        System.out.println("Original array: {0,0,1,1,1,2,2,3,3,4 }");
+        System.out.println("Original array: {0,0,1,1,1,2,2,3,3,4}");
 
         int k = rd.removeDuplicates();
 
