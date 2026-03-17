@@ -1,5 +1,5 @@
 package LEETCODE;
-//arra
+//arr
 import java.util.*;
 
 class ThreeSumSolver {
