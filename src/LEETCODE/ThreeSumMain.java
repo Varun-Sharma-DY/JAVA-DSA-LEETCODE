@@ -1,5 +1,5 @@
 package LEETCODE;
-//arrays practic
+//arrays practi
 import java.util.*;
 
 class ThreeSumSolver {
