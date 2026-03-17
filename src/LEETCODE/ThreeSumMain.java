@@ -65,6 +65,7 @@ public class ThreeSumMain {
 
         List<List<Integer>> result = obj.findTriplets();
 
-        System.out.println("Triplets: " + result);
+        System.out.println("The " +
+                "Triplets are: " + result);
     }
 }
