@@ -32,6 +32,6 @@ public class searchInSortedArray {
         int target = 0;
 
         int result = search(nums, target);
-        System.out.println("Index is : " + result);
+        System.out.println("Index  : " + result);
     }
 }
